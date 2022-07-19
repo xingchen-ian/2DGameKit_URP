@@ -1,0 +1,4 @@
+repository "2DGameKit_GitLFS"
+  path "/"
+    br "/main"
+    co "/main"
